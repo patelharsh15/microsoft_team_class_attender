@@ -22,7 +22,7 @@ There are few things you need to configure before running this bot.
 
 ## Install
 
- - Clone the repository `git clone https://github.com/teja156/microsoft-teams-class-attender`
+ - Clone the repository `git clone https://github.com/patelharsh15/microsoft_team_class_attender`
  - Install requirements.txt `pip install -r requirements.txt`
 
  
