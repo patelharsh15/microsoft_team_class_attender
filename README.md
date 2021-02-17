@@ -7,6 +7,7 @@ This bot attends the online classes (or meetings) held on Microsoft teams, accor
 
 There are few things you need to configure before running this bot.
  - for students of class CSE 2 batch A -> no change in timetable database file.(I had already done for you;)
+ - If you are not in Class CSE 2 batch A _> Delete the timetable_cse2_a.db file, and create your own by using option 1. Add timetable.
  - To change database change code in bot.py at line 36(write .db here only), 67, 118, 132, 246, 294, 315, 325, 335 & 345.
  - Open Microsoft teams on your browser, login to your account, change the dashboard view to list view (from grid view), so that your classes are displayed in a list view. 
  - ![This is how list view looks like](https://i.imgur.com/SSDo8c6.png)
