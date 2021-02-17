@@ -16,7 +16,7 @@ There are few things you need to configure before running this bot.
  - Open *discord_webhook.py* and put your discord webhook URL in the **webhook_url** variable. 
  - Example - `webhook_url = "https://discordapp.com/...."`
  - Make sure that the timezone of the PC is correct. If you're running the bot on cloud, you may want to manually change the timezone of the virtual machine to an appropriate time zone (i.e., the timezone that your online classes follow)
- - Also those who are getting chromedriver PATH error then pass the path of chromedriver.exe in the bot.py line 232.
+ - Also those who are getting chromedriver PATH error then pass the location of chromedriver.exe with the chromedriver.exe name in the bot.py line 232.
  - Never ever delete the inbuild database file. just change it's name. Otherwise it will giver error while reading new file.
 
 
